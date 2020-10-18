@@ -269,7 +269,7 @@ sapply(k1$secondary.clusters, '[[', 6) # this gets log-likelihoods
 sapply(k1$secondary.clusters, '[[', 8) # this gets p.values
 ```
 
-First, notice that the log-likelihood ratios for these two secondary clusters are substantially smaller than our most-likely cluster (it was nearly 6000!). In addition the SMR's and p-values vary. 
+First, notice that the log-likelihood ratios for these two secondary clusters are substantially smaller than our most-likely cluster (it was nearly 3000!). In addition the SMR's and p-values vary. 
 
 #### Plotting results
 
